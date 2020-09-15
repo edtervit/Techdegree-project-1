@@ -1,2 +1,2 @@
-# Techdegree project 1
- My first teamtreehouse techdegree project
+Techdegree project 1
+ My first teamtreehouse techdegree project.
